@@ -12,7 +12,6 @@
   <project remote="freescale" revision="zeus" name="meta-freescale-distro" path="sources/meta-freescale-distro"/>
   <project remote="oe" revision="zeus" name="meta-openembedded" path="sources/meta-openembedded"/>
 
-  <project remote="freescale" revision="zeus" name="meta-freescale-distro" path="sources/meta-freescale-distro"/>
   <project remote="freescale" revision="master" name="Documentation" path="sources/Documentation"/>
 
 </manifest>
